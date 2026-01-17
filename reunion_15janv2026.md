@@ -1,4 +1,4 @@
-## Réunion GETALP - 25/11/2025
+## Réunion GETALP - 15/01/2026
 
 ## Ordre du jour : point soutenance janvier et clarification code GenderedNews 
 
