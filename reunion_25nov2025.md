@@ -1,3 +1,7 @@
+## Réunion GETALP - 25/11/2025
+
+## Ordre du jour : entretien et présentation du projet 
+
 ### Organisation technique
 
 -La branche courante est celle qui commence par 202-Juan-… <br>
