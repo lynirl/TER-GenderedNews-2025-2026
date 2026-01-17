@@ -1,6 +1,6 @@
 ## Réunion GETALP - 25/11/2025
 
-## Ordre du jour : point soutencance janvier et clarification code GenderedNews 
+## Ordre du jour : point soutenance janvier et clarification code GenderedNews 
 
 ### Objectif stage : mise à jour des scrappers 
 
